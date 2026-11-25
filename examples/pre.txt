@@ -1,0 +1,8 @@
+Switch# show ip interface brief
+Interface              IP-Address      OK? Method Status                Protocol
+Vlan10                 192.0.2.1       YES NVRAM  up                    up
+Vlan20                 198.51.100.1    YES NVRAM  up                    up
+GigabitEthernet1/0/1   unassigned      YES unset  up                    up
+GigabitEthernet1/0/2   unassigned      YES unset  up                    up
+GigabitEthernet1/0/3   unassigned      YES unset  down                  down
+GigabitEthernet1/0/4   unassigned      YES unset  administratively down down
